@@ -1,4 +1,4 @@
-# Python-OpenCV-CleverProgrammer-FaceDetection
+# Face Detection App Using Python OpenCV
 
 
 OpenCV's GitHub (To download their machine learning .xml files): 
